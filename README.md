@@ -1,1 +1,1 @@
-# DAP
+# BME - Adatelemzési platformok (VITMMA05)
